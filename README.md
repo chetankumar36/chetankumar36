@@ -66,25 +66,12 @@ I enjoy building practical projects, solving problems, and continuously learning
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chetankumar36&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
-
 <p align="left">
   <a href="https://github.com/chetankumar36">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 ### 💡 "Learn. Build. Experiment. Repeat."
-
 ⭐ If you find something interesting in my repositories, feel free to explore, star, or connect!
