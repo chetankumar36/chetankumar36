@@ -1,9 +1,6 @@
 # Hi, I'm Chetan Kumar N K 👋
 
-### AI/ML Enthusiast | Machine Learning | Deep Learning | Generative AI
-
 I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
-
 I enjoy building practical projects, solving problems, and continuously learning technologies that help turn ideas into real-world solutions.
 
 ---
@@ -52,32 +49,12 @@ I enjoy building practical projects, solving problems, and continuously learning
 
 ---
 
- Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetankumar36&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetankumar36&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chetankumar36&hide_border=true" />
 </p>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more real-world AI/ML projects
-* 🧠 Strengthen Machine Learning & Deep Learning fundamentals
-* 🤖 Explore Generative AI and LLMs
-* 💻 Improve Data Structures & Algorithms
-* 🌐 Learn how to deploy AI applications
-* 🤝 Contribute to open-source projects
-* 📚 Keep learning and building consistently
 
 ---
 
