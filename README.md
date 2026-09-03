@@ -1,51 +1,41 @@
 # Hi, I'm Chetan Kumar N K 👋
 
-### AI/ML Enthusiast | Generative AI | LLMs | RAG | AI Agents
+### AI/ML Enthusiast | Machine Learning | Deep Learning | Generative AI
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**.
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
-I enjoy learning how intelligent systems work, building practical AI projects, solving programming problems, and exploring modern technologies such as **LLMs, RAG, and AI Agents**.
+I enjoy building practical projects, solving problems, and continuously learning technologies that help turn ideas into real-world solutions.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science Engineering Student
-* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-* 🧠 Exploring **Deep Learning & Computer Vision**
-* 🧩 Learning and building applications with **LLMs, RAG & AI Agents**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🧠 Exploring **Deep Learning & Generative AI**
+* 💻 Practicing **Data Structures & Algorithms**
 * 📊 Interested in **Data Science & SQL**
-* 💻 Programming with **Python & Java**
-* 🧮 Practicing **Data Structures & Algorithms**
-* 💡 Strong interest in **Core Computer Science concepts**
-* 🤝 Open to learning, collaboration, and interesting projects
+* ☕ Building projects with **Python & Java**
+* 🌱 Currently learning and improving my skills in **AI/ML and software development**
+* 🤝 Open to learning, collaborating, and contributing to interesting projects
 
 ---
 
-## 🧠 AI & Generative AI
+## 🛠️ Tech Stack
 
-* 🤖 Artificial Intelligence
-* 📊 Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* 🧬 Generative AI
-* 🗣️ Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🤝 AI Agents & Agentic AI
-* 🔗 LLM Application Development
-* 🧠 Prompt Engineering
-
----
-
-## 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
----
+### AI / Machine Learning
 
-## 🛠️ AI / ML Technologies
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+### Libraries & Frameworks
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -53,45 +43,7 @@ I enjoy learning how intelligent systems work, building practical AI projects, s
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
----
-
-## 🤖 Generative AI Stack
-
-```text
-Generative AI
-     │
-     ├── LLMs
-     │
-     ├── Prompt Engineering
-     │
-     ├── RAG
-     │    ├── Embeddings
-     │    ├── Vector Databases
-     │    └── Semantic Search
-     │
-     └── AI Agents
-          ├── Tools
-          ├── Memory
-          ├── Planning
-          └── LLM-based Reasoning
-```
-
----
-
-## 🖥️ Core Computer Science
-
-I also have knowledge of fundamental Computer Science concepts:
-
-* 🖥️ **Operating Systems (OS)**
-* 🌐 **Computer Networks (CN)**
-* ☕ **Object-Oriented Programming (OOP/OOPS)**
-* 🧮 **Data Structures & Algorithms**
-* 🗄️ **Database & SQL Fundamentals**
-* 💻 **Programming Fundamentals**
-
----
-
-## 🔧 Tools & Technologies
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -100,27 +52,47 @@ I also have knowledge of fundamental Computer Science concepts:
 
 ---
 
-## 📌 Projects
+## 🧠 Areas I'm Exploring
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Generative AI
+        ↓
+Real-World AI Applications
+```
+
+I'm particularly interested in understanding **how AI systems work internally**, building models from data, and deploying them into useful applications.
+
+---
+
+## 📌 Featured Projects
 
 ### 🔹 Object Recognition using ResNet50
 
-A Deep Learning project focused on image recognition using the **ResNet50** architecture.
+Deep Learning project focused on image classification/object recognition using a pretrained **ResNet50** architecture.
 
 ### 🔹 LeetCode Solutions
 
-A collection of solutions to coding problems focused on improving **Data Structures & Algorithms** and problem-solving skills.
+A growing collection of solutions to LeetCode problems for improving **Data Structures & Algorithms** and coding interview skills.
 
-### 🔹 Generative AI Projects
+### 🔹 AI / ML Projects
 
-Exploring and building projects around:
+Building and experimenting with projects involving:
 
-* LLM applications
-* RAG systems
-* AI Agents
-* Prompt Engineering
+* Machine Learning
+* Deep Learning
+* Computer Vision
 * Generative AI
+* Data Science
 
-> 🚀 More AI/ML projects are continuously being developed.
+> Check out my repositories below for more projects and experiments.
 
 ---
 
@@ -136,38 +108,26 @@ Exploring and building projects around:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chetankumar36&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=chetankumar36&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 2026 Goals
 
-* 🤖 Advanced Generative AI
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 🤝 AI Agents & Agentic AI
-* 🧠 Deep Learning
-* ☁️ AI Application Deployment
-* 💻 Advanced DSA
-
----
-
-## 🎯 Goals
-
-* 🚀 Build real-world AI/ML applications
-* 🤖 Develop useful LLM & RAG applications
-* 🧠 Build intelligent AI Agents
-* 💻 Strengthen DSA and Core CS fundamentals
-* 🌐 Learn AI application deployment
+* 🚀 Build more real-world AI/ML projects
+* 🧠 Strengthen Machine Learning & Deep Learning fundamentals
+* 🤖 Explore Generative AI and LLMs
+* 💻 Improve Data Structures & Algorithms
+* 🌐 Learn how to deploy AI applications
 * 🤝 Contribute to open-source projects
-* 📚 Continuously learn, experiment, and build
+* 📚 Keep learning and building consistently
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/chetankumar36">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -175,6 +135,6 @@ Exploring and building projects around:
 
 ---
 
-### 💡 Learn • Build • Experiment • Repeat 🚀
+### 💡 "Learn. Build. Experiment. Repeat."
 
-⭐ Thanks for visiting my profile!
+⭐ If you find something interesting in my repositories, feel free to explore, star, or connect!
