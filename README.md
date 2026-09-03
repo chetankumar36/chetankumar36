@@ -52,51 +52,7 @@ I enjoy building practical projects, solving problems, and continuously learning
 
 ---
 
-## 🧠 Areas I'm Exploring
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Generative AI
-        ↓
-Real-World AI Applications
-```
-
-I'm particularly interested in understanding **how AI systems work internally**, building models from data, and deploying them into useful applications.
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Object Recognition using ResNet50
-
-Deep Learning project focused on image classification/object recognition using a pretrained **ResNet50** architecture.
-
-### 🔹 LeetCode Solutions
-
-A growing collection of solutions to LeetCode problems for improving **Data Structures & Algorithms** and coding interview skills.
-
-### 🔹 AI / ML Projects
-
-Building and experimenting with projects involving:
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Data Science
-
-> Check out my repositories below for more projects and experiments.
-
----
-
-## 📈 GitHub Stats
+ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetankumar36&show_icons=true&theme=default&hide_border=true" height="170"/>
