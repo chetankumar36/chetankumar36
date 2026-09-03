@@ -1,16 +1,140 @@
-## Hi there 👋
+# Hi, I'm Chetan Kumar N K 👋
 
-<!--
-**chetankumar36/chetankumar36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Enthusiast | Machine Learning | Deep Learning | Generative AI
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, solving problems, and continuously learning technologies that help turn ideas into real-world solutions.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Engineering Student
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🧠 Exploring **Deep Learning & Generative AI**
+* 💻 Practicing **Data Structures & Algorithms**
+* 📊 Interested in **Data Science & SQL**
+* ☕ Building projects with **Python & Java**
+* 🌱 Currently learning and improving my skills in **AI/ML and software development**
+* 🤝 Open to learning, collaborating, and contributing to interesting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+### Libraries & Frameworks
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🧠 Areas I'm Exploring
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Generative AI
+        ↓
+Real-World AI Applications
+```
+
+I'm particularly interested in understanding **how AI systems work internally**, building models from data, and deploying them into useful applications.
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Object Recognition using ResNet50
+
+Deep Learning project focused on image classification/object recognition using a pretrained **ResNet50** architecture.
+
+### 🔹 LeetCode Solutions
+
+A growing collection of solutions to LeetCode problems for improving **Data Structures & Algorithms** and coding interview skills.
+
+### 🔹 AI / ML Projects
+
+Building and experimenting with projects involving:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Data Science
+
+> Check out my repositories below for more projects and experiments.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetankumar36&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetankumar36&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chetankumar36&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build more real-world AI/ML projects
+* 🧠 Strengthen Machine Learning & Deep Learning fundamentals
+* 🤖 Explore Generative AI and LLMs
+* 💻 Improve Data Structures & Algorithms
+* 🌐 Learn how to deploy AI applications
+* 🤝 Contribute to open-source projects
+* 📚 Keep learning and building consistently
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/chetankumar36">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Learn. Build. Experiment. Repeat."
+
+⭐ If you find something interesting in my repositories, feel free to explore, star, or connect!
