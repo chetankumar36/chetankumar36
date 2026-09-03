@@ -1,23 +1,7 @@
 # Hi, I'm Chetan Kumar N K 👋
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
-I enjoy building practical projects, solving problems, and continuously learning technologies that help turn ideas into real-world solutions.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Engineering Student
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🧠 Exploring **Deep Learning & Generative AI**
-* 💻 Practicing **Data Structures & Algorithms**
-* 📊 Interested in **Data Science & SQL**
-* ☕ Building projects with **Python & Java**
-* 🌱 Currently learning and improving my skills in **AI/ML and software development**
-* 🤝 Open to learning, collaborating, and contributing to interesting projects
-
----
-
+I'm a Information Science and Engineering student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
+I enjoy  **Datascience** Domain to building practical projects, solving problems, and continuously learning technologies that help turn ideas into real-world solutions.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages & Core CS
@@ -73,5 +57,3 @@ I enjoy building practical projects, solving problems, and continuously learning
   </a>
 </p>
 ---
-### 💡 "Learn. Build. Experiment. Repeat."
-⭐ If you find something interesting in my repositories, feel free to explore, star, or connect!
